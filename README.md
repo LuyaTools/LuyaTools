@@ -1,5 +1,6 @@
 # Luya #
 `Made in Germany for the world <3`
+<img src="readme-src/standard.gif" alt="drawing" width="400"/>
 - - -
 Links
  > [Website](https://www.luya.ml/#github.readme "Website") -
@@ -15,5 +16,5 @@ Tools
  > [More](https://github.com/LuyaTools?tab=repositories "more")
 - - -
 <img src="readme-src/gen.png" alt="drawing" width="400"/> .
-<img src="readme-src/raid.png" alt="drawing" width="400"/>
+<img src="readme-src/raid.png" alt="drawing" width="400"/> .
 
