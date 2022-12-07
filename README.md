@@ -1,4 +1,4 @@
-# DELU$ION / BLIZZ / LUYA
+<h1 align="center">DELU$ION / BLIZZ / LUYA</h1>
 <p align="center"><code>Made in Germany</code></p>
 <p align="center">
 <img src="https://blizz.cf/static.png" alt="banner" width="400">
@@ -14,3 +14,19 @@
 </p>
 
 - - -
+
+```
+___________________________________________________
+|C:\Users\DELU$ION\Desktop\openme.txt    | - ⊡ x |
+|-------------------------------------------------|
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|                                                 |
+|_________________________________________________|
+```
