@@ -6,9 +6,11 @@
 
 - - -
 
+<h2 align="center"><i>Socials / Links</i></h2>
 <p align="center">
  <a href="https://blizz.cf/"><code>Website</code></a><br>
  <a href="https://ko-fi.com/luyadevs"><code>Donate</code></a><br>
  <a href="https://t.me/bladetools"><code>Telegram</code></a><br>
- 
- </p>
+</p>
+
+- - -
