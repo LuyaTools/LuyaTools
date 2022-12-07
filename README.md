@@ -17,15 +17,16 @@
 
 ```
 ___________________________________________________
-|C:\Users\DELU$ION\Desktop\openme.txt    | - ⊡ x |
+| C:\Users\DELU$ION\Desktop\openme.txt   | - ⊡ x |
 |-------------------------------------------------|
+| OS: Windows 10                                  |
+| IP: [censored]                                  |
+| Fav Langs: Python, HTML/PHP                     |
+| Learning: C#                                    |
 |                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
-|                                                 |
+| Full Name: [censored]                           |
+| Location: Germany                               |
+| Age: [censored]                                 |
 |                                                 |
 |                                                 |
 |_________________________________________________|
