@@ -1,9 +1,14 @@
-# Luya #
-`Made in Germany for the world <3`
-<img src="readme-src/standard.gif" alt="drawing" width="400"/>
+# DELU$ION / BLIZZ / LUYA
+<p align="center"><code>Made in Germany</code></p>
+<p align="center">
+<img src="https://blizz.cf/static.png" alt="banner" width="400">
+</p>
+
 - - -
-Links
- > [Website](https://blizz.cf/ "Website") -
- > [Donate](https://ko-fi.com/luyadevs "Donate") -
- > [Telegram](https://t.me/bladetools "Telegram") -
- > [Youtube](https://www.youtube.com/channel/UCC0wrmmTK-SCJqdJEJJ-Hrg "Youtube")
+
+<p align="center">
+ <a href="https://blizz.cf/"><code>Website</code></a><br>
+ <a href="https://ko-fi.com/luyadevs"><code>Donate</code></a><br>
+ <a href="https://t.me/bladetools"><code>Telegram</code></a><br>
+ 
+ </p>
