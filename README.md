@@ -14,7 +14,10 @@
 </p>
 
 - - -
+<p align="center"><i>Latest Tool</i><br><p align="center"><a href="https://github.com/LuyaTools/cola-discord-nuker"><code>View</code></a></p></p>
+<p align="center"><img src="https://blizz.cf/tools/colanuker/githubasset/prew__001.png" width="400"></p>
 
+- - -
 ```
 ___________________________________________________
 | C:\Users\DELU$ION\Desktop\openme.txt   | - ⊡ x |
