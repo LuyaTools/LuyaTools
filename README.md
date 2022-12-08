@@ -18,19 +18,6 @@
 <p align="center"><img src="https://blizz.cf/tools/colanuker/githubasset/prew__001.png" width="400"></p>
 
 - - -
-```
-___________________________________________________
-| C:\Users\DELU$ION\Desktop\openme.txt   | - ⊡ x |
-|-------------------------------------------------|
-| OS: Windows 10                                  |
-| IP: [censored]                                  |
-| Fav Langs: Python, HTML/PHP                     |
-| Learning: C#                                    |
-|                                                 |
-| Full Name: [censored]                           |
-| Location: Germany                               |
-| Age: [censored]                                 |
-|                                                 |
-|                                                 |
-|_________________________________________________|
-```
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luyatools&show_icons=true&locale=en" alt="luyatools" /></p>
+
