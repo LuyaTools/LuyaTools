@@ -1,7 +1,7 @@
 <h1 align="center">DELU$ION / BLIZZ / LUYA</h1>
 <p align="center"><code>Made in Germany</code></p>
 <p align="center">
-<img src="https://blizz.cf/static.png" alt="banner" width="400">
+<img src="https://blizz.cf/assets/static.png" alt="banner" width="400">
 </p>
 
 - - -
