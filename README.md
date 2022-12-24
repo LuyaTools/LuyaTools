@@ -1,4 +1,4 @@
-<h1 align="center">DELU$ION / BLIZZ / LUYA</h1>
+<h1 align="center"><samp>Blizz / Luya</samp></h1>
 <p align="center"><code>Made in Germany</code></p>
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-4/1009395412710469635.png">
