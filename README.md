@@ -11,7 +11,9 @@
 </samp><br>
 </p>
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luyatools&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" alt="luyatools" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luyatools&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" alt="luyatools" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luyatools&count_private=true&hide=procfile&theme=transparent&hide_border=true&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages" alt="7z8y" />
+</p>
 <p align="center">
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=luyatools&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
 <img alt="followers" src="https://img.shields.io/github/followers/luyatools?color=f429ff&style=for-the-badge&logo=github&label=Follow"/>
