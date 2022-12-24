@@ -8,11 +8,6 @@
   <samp>
     My Website:
    <b><a href="https://blizz.cf/">blizz.cf</a></b>
-   <p align="center>
-   
-   >  **Note** To support me, please star my repos and contribute <3
-   
-   </p>
 </samp><br>
 </p>
 <br>
