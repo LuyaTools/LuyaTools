@@ -18,3 +18,7 @@
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=luyatools&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
 <img alt="followers" src="https://img.shields.io/github/followers/luyatools?color=f429ff&style=for-the-badge&logo=github&label=Follow"/>
 </p>
+
+<p align="center">
+<a href="https://github.com/LuyaTools/cola-discord-nuker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luyatools&repo=cola-discord-nuker&theme=tokyonight"></a>
+</p>
