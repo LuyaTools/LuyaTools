@@ -22,4 +22,6 @@
 <p align="center">
 <a href="https://github.com/LuyaTools/cola-discord-nuker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luyatools&repo=cola-discord-nuker&theme=tokyonight"></a>
 <a href="https://github.com/LuyaTools/jersey-python-obfuscator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luyatools&repo=jersey-python-obfuscator&theme=tokyonight"></a>
+<a href="https://github.com/LuyaTools/skid-hall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luyatools&repo=skid-hall&theme=tokyonight"></a>
+<a href="https://github.com/LuyaTools/Nitro-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luyatools&repo=Nitro-Generator&theme=tokyonight"></a>
 </p>
